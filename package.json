@@ -142,7 +142,7 @@
     "postcss-preset-mantine": "^1.17.0",
     "postcss-simple-vars": "^7.0.1",
     "prettier": "^2.8.8",
-    "react-refresh": "^0.14.0",
+    "react-refresh": "^0.18.0",
     "react-test-renderer": "^18.2.0",
     "rimraf": "^5.0.1",
     "sass": "^1.62.1",
