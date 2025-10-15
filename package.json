@@ -188,7 +188,7 @@
     "@ebay/nice-modal-react": "^1.2.13",
     "@emotion/css": "^11.13.5",
     "@emotion/react": "^11.14.0",
-    "@emotion/styled": "^11.14.0",
+    "@emotion/styled": "^11.14.1",
     "@epic-web/cachified": "^5.5.1",
     "@mantine/core": "^8.3.4",
     "@mantine/form": "^7.17.7",
