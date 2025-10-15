@@ -173,7 +173,7 @@
     "@ai-sdk/openai-compatible": "^0.2.16",
     "@ai-sdk/perplexity": "^1.1.7",
     "@braintree/sanitize-url": "^6.0.4",
-    "@capacitor-community/sqlite": "^6.0.2",
+    "@capacitor-community/sqlite": "^7.0.2",
     "@capacitor/app": "^6.0.2",
     "@capacitor/core": "^6.1.1",
     "@capacitor/filesystem": "^6.0.0",
