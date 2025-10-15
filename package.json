@@ -250,7 +250,7 @@
     "mark.js": "^8.11.1",
     "material-ui-popup-state": "^5.0.4",
     "mermaid": "^11.10.0",
-    "ofetch": "^1.0.1",
+    "ofetch": "^1.4.1",
     "officeparser": "^5.0.0",
     "optics-ts": "^2.4.0",
     "p-map": "^7.0.3",
